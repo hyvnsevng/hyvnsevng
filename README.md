@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Hyunseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyvnsevng)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyunseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyvnsevng&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hyvnsevng/hyvnsevng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
